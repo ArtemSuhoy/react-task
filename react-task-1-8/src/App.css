@@ -1,0 +1,11 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.app{
+    padding: 0px 15px;
+    width: 1200px;
+    margin: 0 auto;
+    min-height: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
