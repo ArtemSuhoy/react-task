@@ -1,0 +1,22 @@
+.list{
+    list-style: none;
+    width: 1200px;
+    margin: 10px auto;
+}
+
+.list li{
+    padding: 10px;
+    font-size: 24px;
+    background-color: #d3d3d3;
+    border: 1px solid #000;
+}
+
+.list p{
+    margin: 0px;
+    border: 1px solid #000
+}
+
+.list li:hover{
+    color: blue;
+    text-decoration: underline;
+}
